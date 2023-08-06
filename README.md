@@ -1,6 +1,6 @@
 # Product-card
 
-## Produto Card: https://robrthy.github.io/Product-card/ (EM MANUTENÇÃO)
+## Produto Card: https://robrthy.github.io/Product-card/ 
 
 ![image](https://github.com/Robrthy/Product-card/assets/121112152/8e106762-f3c5-4f4a-af00-c6a1dc59a903)
 
